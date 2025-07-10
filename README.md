@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Java projects**
 
-- 💬 Ask me about **Java,C,C++,Python and UI/UX**
+- 💬 Ask me about **Java, C, C++, Python and UI/UX**
 
 - 📫 How to reach me **nomantalibnoman@gmail.com**
 
