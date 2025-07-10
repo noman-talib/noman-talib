@@ -25,6 +25,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noman-talib/noman-talib/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noman-talib/noman-talib/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noman-talib/noman-talib/output/pacman-contribution-graph.svg">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph Snake" />
+
 </picture>
 
 <h3 align="left">Languages and Tools:</h3>
