@@ -10,7 +10,7 @@
 - 🔭 I’m currently exploring **Java**  
 - 🌱 I’m currently learning **DSA**  
 - 👯 I’m looking to collaborate on **Java projects**  
-- 💬 Ask me about **Java, C, C++, Python and UI/UX**  
+- 💬 Ask me about **Java, C, C++ and UI/UX**  
 - 📫 How to reach me: **nomantalibnoman@gmail.com**  
 - ⚡ Fun fact: **I write code that even I don’t understand after a week — true talent!**
 
