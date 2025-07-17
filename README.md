@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently exploring **Java**  
+- 🔭 I’m currently exploring **Jav**  
 - 🌱 I’m currently learning **DSA**  
 - 👯 I’m looking to collaborate on **Java projects**  
 - 💬 Ask me about **Java, C, C++ and UI/UX**  
