@@ -1,4 +1,4 @@
-<h1 align="center">Hi  👋, I'm Noman Talib</h1>
+<h1 align="center">Hi 👋, I'm Noman Talib</h1>
 <h3 align="center">A passionate Software Engineering Student from Pakistan</h3>
 
 <p align="right">
