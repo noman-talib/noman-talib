@@ -86,13 +86,13 @@ me = NomanTalib()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nomantalib&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=noman-talib&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomantalib&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=7c3aed&title_color=a78bfa" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-talib&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&border_color=7c3aed&title_color=a78bfa" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nomantalib&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noman-talib&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
 
 </div>
 
