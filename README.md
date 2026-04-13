@@ -32,7 +32,7 @@ class NomanTalib:
         self.email       = "nomantalibnoman@gmail.com"
 
     @property
-    def currently(self):
+    def currently(self) :
         return {
             "exploring"   : "Python 🐍",
             "learning"    : "Data Structures & Algorithms 📚",
