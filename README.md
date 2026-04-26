@@ -109,7 +109,7 @@ me = NomanTalib()
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.leetcode.com/nomansitalib" target="_blank">
+<a href="https://www.leetcode.com/nomantalib" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
