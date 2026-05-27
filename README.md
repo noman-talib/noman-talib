@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=nomantalib&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=noman-talib&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
 &nbsp;
-<a href="https://github.com/nomantalib?tab=followers">
+<a href="https://github.com/noman-talib?tab=followers">
   <img src="https://img.shields.io/github/followers/noman-talib?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="followers"/>
 </a>
 
